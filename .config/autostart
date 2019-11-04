@@ -1,0 +1,8 @@
+compton &
+polybar -r example &
+feh --bg-center ~/Pictures/Wallpapers/landscape.jpg &
+dunst &
+steam &
+discord &
+firefox &
+~/.scripts/weather.sh
